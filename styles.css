@@ -1,0 +1,33 @@
+.red-box{
+    height: 250px;
+    width: 400px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 1rem 1rem;
+    font-size: .9rem;
+    border: 5px solid black;  
+    position: absolute; 
+    margin: 6%;
+}
+
+.blue-box{
+    height: 350px;
+    width: 500px;
+    background-color: blue;
+    padding:0px;
+    font-size: 1.1rem;
+   position: relative;
+    border: 5px solid black;
+    margin: 30%
+    
+    
+}
+
+#left-align{
+    text-align: left;
+}
+
+.center{
+ 
+}
